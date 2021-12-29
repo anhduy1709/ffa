@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Flutter Folio
+Comment=A scrapbooking app that feels great on all your devices
+Exec=flutter-folio
+Icon=${SNAP}/meta/gui/flutter-folio.png
+Terminal=false
+Type=Application
+Categories=Lifestyle
